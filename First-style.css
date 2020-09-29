@@ -1,0 +1,95 @@
+    * {
+    	background-color: #3CB371;
+    	margin: 0;
+    	padding: 0;
+    }
+
+    #h1-first {color: red}
+
+    #h1-second {color: blue}
+
+    h2.green {color: green}
+
+    p i {color: yellow}
+
+    p.LOL, b.GG {
+    	font-size: 25px;
+    	color: purple
+    }
+
+    p#Start:first-letter {color: red}
+
+    .href { 
+    	color: 8B0000;
+    	text-decoration: none;
+}
+
+    .href:hover {
+    	color: orange;
+}
+
+    .href:active {
+    	color: green;
+}
+
+    .href1:visited {
+    	color: blue;
+    }
+
+    #Norm {
+    	font-size: 25px;
+    	font-family: Comic Sans MS;
+    	font-weight: normal;
+    	text-align: left;
+    }
+
+    #Block1 {
+    	border: 3px dashed silver;
+    	height: 50px;
+    	width: 100px;
+    	background-color: white;
+    	border-left: 3px solid black;
+    }
+
+    #Block2 {
+    	border: 3px solid silver;
+    	height: 50px;
+    	width: 100px;
+    	background-color: white;
+    	margin: 10px 10px 10px 10px;
+    }
+
+    #Block3 {
+    	border: 3px solid silver;
+    	height: 50px;
+    	width: 100px;
+    	background-color: white;
+    	padding: 10px 10px 10px 10px;
+    	border-radius: 15px;
+    }
+
+    #StartBlock {
+    	width: calc(100% - 20px);
+    	height: 50px;
+    	background-color: #fff;
+    	border-bottom: 3px solid silver;
+    	padding: 10px;
+    	border-top: 5px solid silver;
+    	color: black;
+    	font-family: Comic Sans MS;
+    	margin: 10px 0px 0px 0px;
+    }
+
+    #Add {
+    	padding: 5px;
+    	position: fixed;
+    	left: 87%;
+    	top: 80%;
+    	border: 3px solid silver;
+    	width: 10%;
+    	height: 20%;
+    	background-color: #fff;
+    	margin: 20px;
+    	font-family: Comic Sans MS;
+
+    }
